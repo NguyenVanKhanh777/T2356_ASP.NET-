@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab07\\MvcLab07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73442334-9112-43E6-AE6C-BBDFCC4EDF7C}|MvcLab07\\MvcLab07.csproj|c:\\users\\admin\\documents\\github\\t2356_asp.net-\\lab07\\mvclab07\\mvclab07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73442334-9112-43E6-AE6C-BBDFCC4EDF7C}|MvcLab07\\MvcLab07.csproj|solutionrelative:mvclab07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73442334-9112-43E6-AE6C-BBDFCC4EDF7C}|MvcLab07\\MvcLab07.csproj|c:\\users\\admin\\documents\\github\\t2356_asp.net-\\lab07\\mvclab07\\mvclab07\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73442334-9112-43E6-AE6C-BBDFCC4EDF7C}|MvcLab07\\MvcLab07.csproj|solutionrelative:mvclab07\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73442334-9112-43E6-AE6C-BBDFCC4EDF7C}|MvcLab07\\MvcLab07.csproj|c:\\users\\admin\\documents\\github\\t2356_asp.net-\\lab07\\mvclab07\\mvclab07\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73442334-9112-43E6-AE6C-BBDFCC4EDF7C}|MvcLab07\\MvcLab07.csproj|solutionrelative:mvclab07\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab07\\MvcLab07\\MvcLab07\\Program.cs",
+              "RelativeDocumentMoniker": "MvcLab07\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab07\\MvcLab07\\MvcLab07\\Program.cs",
+              "RelativeToolTip": "MvcLab07\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:25:41.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab07\\MvcLab07\\MvcLab07\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcLab07\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab07\\MvcLab07\\MvcLab07\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "MvcLab07\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T02:24:39.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab07\\MvcLab07\\MvcLab07\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "MvcLab07\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab07\\MvcLab07\\MvcLab07\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "MvcLab07\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T02:24:23.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

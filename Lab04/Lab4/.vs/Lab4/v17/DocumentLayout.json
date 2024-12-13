@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab04\\Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06D04EAB-04D4-4CFB-BFF9-AF52AEF3FCE1}|Lab4\\Lab4.csproj|c:\\users\\admin\\documents\\github\\t2356_asp.net-\\lab04\\lab4\\lab4\\views\\people\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06D04EAB-04D4-4CFB-BFF9-AF52AEF3FCE1}|Lab4\\Lab4.csproj|solutionrelative:lab4\\views\\people\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D04EAB-04D4-4CFB-BFF9-AF52AEF3FCE1}|Lab4\\Lab4.csproj|c:\\users\\admin\\documents\\github\\t2356_asp.net-\\lab04\\lab4\\lab4\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D04EAB-04D4-4CFB-BFF9-AF52AEF3FCE1}|Lab4\\Lab4.csproj|solutionrelative:lab4\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D04EAB-04D4-4CFB-BFF9-AF52AEF3FCE1}|Lab4\\Lab4.csproj|c:\\users\\admin\\documents\\github\\t2356_asp.net-\\lab04\\lab4\\lab4\\views\\people\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06D04EAB-04D4-4CFB-BFF9-AF52AEF3FCE1}|Lab4\\Lab4.csproj|solutionrelative:lab4\\views\\people\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D04EAB-04D4-4CFB-BFF9-AF52AEF3FCE1}|Lab4\\Lab4.csproj|c:\\users\\admin\\documents\\github\\t2356_asp.net-\\lab04\\lab4\\lab4\\models\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D04EAB-04D4-4CFB-BFF9-AF52AEF3FCE1}|Lab4\\Lab4.csproj|solutionrelative:lab4\\models\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D04EAB-04D4-4CFB-BFF9-AF52AEF3FCE1}|Lab4\\Lab4.csproj|c:\\users\\admin\\documents\\github\\t2356_asp.net-\\lab04\\lab4\\lab4\\views\\people\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06D04EAB-04D4-4CFB-BFF9-AF52AEF3FCE1}|Lab4\\Lab4.csproj|solutionrelative:lab4\\views\\people\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D04EAB-04D4-4CFB-BFF9-AF52AEF3FCE1}|Lab4\\Lab4.csproj|c:\\users\\admin\\documents\\github\\t2356_asp.net-\\lab04\\lab4\\lab4\\models\\datalocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D04EAB-04D4-4CFB-BFF9-AF52AEF3FCE1}|Lab4\\Lab4.csproj|solutionrelative:lab4\\models\\datalocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D04EAB-04D4-4CFB-BFF9-AF52AEF3FCE1}|Lab4\\Lab4.csproj|c:\\users\\admin\\documents\\github\\t2356_asp.net-\\lab04\\lab4\\lab4\\views\\people\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06D04EAB-04D4-4CFB-BFF9-AF52AEF3FCE1}|Lab4\\Lab4.csproj|solutionrelative:lab4\\views\\people\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab04\\Lab4\\Lab4\\Views\\People\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Lab4\\Views\\People\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab04\\Lab4\\Lab4\\Views\\People\\Edit.cshtml",
+              "RelativeToolTip": "Lab4\\Views\\People\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T04:10:48.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab04\\Lab4\\Lab4\\Views\\People\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab4\\Views\\People\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab04\\Lab4\\Lab4\\Views\\People\\Create.cshtml",
+              "RelativeToolTip": "Lab4\\Views\\People\\Create.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T03:56:05.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab04\\Lab4\\Lab4\\Views\\People\\Details.cshtml",
+              "RelativeDocumentMoniker": "Lab4\\Views\\People\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab04\\Lab4\\Lab4\\Views\\People\\Details.cshtml",
+              "RelativeToolTip": "Lab4\\Views\\People\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T03:50:09.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab04\\Lab4\\Lab4\\Views\\People\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab4\\Views\\People\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab04\\Lab4\\Lab4\\Views\\People\\Index.cshtml",
+              "RelativeToolTip": "Lab4\\Views\\People\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T03:41:18.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab04\\Lab4\\Lab4\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "Lab4\\Controllers\\PeopleController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab04\\Lab4\\Lab4\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "Lab4\\Controllers\\PeopleController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAQwIUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:38:26.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataLocal.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab04\\Lab4\\Lab4\\Models\\DataLocal.cs",
+              "RelativeDocumentMoniker": "Lab4\\Models\\DataLocal.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab04\\Lab4\\Lab4\\Models\\DataLocal.cs",
+              "RelativeToolTip": "Lab4\\Models\\DataLocal.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwFEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:34:53.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "People.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab04\\Lab4\\Lab4\\Models\\People.cs",
+              "RelativeDocumentMoniker": "Lab4\\Models\\People.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab04\\Lab4\\Lab4\\Models\\People.cs",
+              "RelativeToolTip": "Lab4\\Models\\People.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:31:50.98Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

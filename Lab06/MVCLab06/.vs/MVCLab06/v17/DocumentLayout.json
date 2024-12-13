@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab06\\MVCLab06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB61F02F-AE2D-488F-8FB2-078DBDFA62FD}|MVCLab06\\MVCLab06.csproj|c:\\users\\admin\\documents\\github\\t2356_asp.net-\\lab06\\mvclab06\\mvclab06\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB61F02F-AE2D-488F-8FB2-078DBDFA62FD}|MVCLab06\\MVCLab06.csproj|solutionrelative:mvclab06\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB61F02F-AE2D-488F-8FB2-078DBDFA62FD}|MVCLab06\\MVCLab06.csproj|c:\\users\\admin\\documents\\github\\t2356_asp.net-\\lab06\\mvclab06\\mvclab06\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB61F02F-AE2D-488F-8FB2-078DBDFA62FD}|MVCLab06\\MVCLab06.csproj|solutionrelative:mvclab06\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB61F02F-AE2D-488F-8FB2-078DBDFA62FD}|MVCLab06\\MVCLab06.csproj|c:\\users\\admin\\documents\\github\\t2356_asp.net-\\lab06\\mvclab06\\mvclab06\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB61F02F-AE2D-488F-8FB2-078DBDFA62FD}|MVCLab06\\MVCLab06.csproj|solutionrelative:mvclab06\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB61F02F-AE2D-488F-8FB2-078DBDFA62FD}|MVCLab06\\MVCLab06.csproj|c:\\users\\admin\\documents\\github\\t2356_asp.net-\\lab06\\mvclab06\\mvclab06\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB61F02F-AE2D-488F-8FB2-078DBDFA62FD}|MVCLab06\\MVCLab06.csproj|solutionrelative:mvclab06\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB61F02F-AE2D-488F-8FB2-078DBDFA62FD}|MVCLab06\\MVCLab06.csproj|c:\\users\\admin\\documents\\github\\t2356_asp.net-\\lab06\\mvclab06\\mvclab06\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB61F02F-AE2D-488F-8FB2-078DBDFA62FD}|MVCLab06\\MVCLab06.csproj|solutionrelative:mvclab06\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB61F02F-AE2D-488F-8FB2-078DBDFA62FD}|MVCLab06\\MVCLab06.csproj|c:\\users\\admin\\documents\\github\\t2356_asp.net-\\lab06\\mvclab06\\mvclab06\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB61F02F-AE2D-488F-8FB2-078DBDFA62FD}|MVCLab06\\MVCLab06.csproj|solutionrelative:mvclab06\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB61F02F-AE2D-488F-8FB2-078DBDFA62FD}|MVCLab06\\MVCLab06.csproj|c:\\users\\admin\\documents\\github\\t2356_asp.net-\\lab06\\mvclab06\\mvclab06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB61F02F-AE2D-488F-8FB2-078DBDFA62FD}|MVCLab06\\MVCLab06.csproj|solutionrelative:mvclab06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB61F02F-AE2D-488F-8FB2-078DBDFA62FD}|MVCLab06\\MVCLab06.csproj|c:\\users\\admin\\documents\\github\\t2356_asp.net-\\lab06\\mvclab06\\mvclab06\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB61F02F-AE2D-488F-8FB2-078DBDFA62FD}|MVCLab06\\MVCLab06.csproj|solutionrelative:mvclab06\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB61F02F-AE2D-488F-8FB2-078DBDFA62FD}|MVCLab06\\MVCLab06.csproj|c:\\users\\admin\\documents\\github\\t2356_asp.net-\\lab06\\mvclab06\\mvclab06\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB61F02F-AE2D-488F-8FB2-078DBDFA62FD}|MVCLab06\\MVCLab06.csproj|solutionrelative:mvclab06\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB61F02F-AE2D-488F-8FB2-078DBDFA62FD}|MVCLab06\\MVCLab06.csproj|c:\\users\\admin\\documents\\github\\t2356_asp.net-\\lab06\\mvclab06\\mvclab06\\migrations\\20241210015629_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB61F02F-AE2D-488F-8FB2-078DBDFA62FD}|MVCLab06\\MVCLab06.csproj|solutionrelative:mvclab06\\migrations\\20241210015629_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab06\\MVCLab06\\MVCLab06\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCLab06\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab06\\MVCLab06\\MVCLab06\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "MVCLab06\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T08:39:06.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab06\\MVCLab06\\MVCLab06\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCLab06\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab06\\MVCLab06\\MVCLab06\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "MVCLab06\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T08:35:04.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab06\\MVCLab06\\MVCLab06\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCLab06\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab06\\MVCLab06\\MVCLab06\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "MVCLab06\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T02:30:21.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab06\\MVCLab06\\MVCLab06\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "MVCLab06\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab06\\MVCLab06\\MVCLab06\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "MVCLab06\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAuwHUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:22:55.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241210015629_v1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab06\\MVCLab06\\MVCLab06\\Migrations\\20241210015629_v1.cs",
+              "RelativeDocumentMoniker": "MVCLab06\\Migrations\\20241210015629_v1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab06\\MVCLab06\\MVCLab06\\Migrations\\20241210015629_v1.cs",
+              "RelativeToolTip": "MVCLab06\\Migrations\\20241210015629_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T01:56:30.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab06\\MVCLab06\\MVCLab06\\Program.cs",
+              "RelativeDocumentMoniker": "MVCLab06\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab06\\MVCLab06\\MVCLab06\\Program.cs",
+              "RelativeToolTip": "MVCLab06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T01:52:01.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab06\\MVCLab06\\MVCLab06\\Entities\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MVCLab06\\Entities\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab06\\MVCLab06\\MVCLab06\\Entities\\AppDbContext.cs",
+              "RelativeToolTip": "MVCLab06\\Entities\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T01:51:16.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab06\\MVCLab06\\MVCLab06\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MVCLab06\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab06\\MVCLab06\\MVCLab06\\Models\\Product.cs",
+              "RelativeToolTip": "MVCLab06\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T01:50:19.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab06\\MVCLab06\\MVCLab06\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MVCLab06\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab06\\MVCLab06\\MVCLab06\\Models\\Category.cs",
+              "RelativeToolTip": "MVCLab06\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T01:49:37.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab06\\MVCLab06\\MVCLab06\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCLab06\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab06\\MVCLab06\\MVCLab06\\appsettings.json",
+              "RelativeToolTip": "MVCLab06\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T01:47:48.421Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab05\\Mvclab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E20191C4-63E5-41A5-B256-395E3A2CCBB9}|Mvclab5\\Mvclab5.csproj|c:\\users\\admin\\documents\\github\\t2356_asp.net-\\lab05\\mvclab5\\mvclab5\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E20191C4-63E5-41A5-B256-395E3A2CCBB9}|Mvclab5\\Mvclab5.csproj|solutionrelative:mvclab5\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab05\\Mvclab5\\Mvclab5\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Mvclab5\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\T2356_ASP.NET-\\Lab05\\Mvclab5\\Mvclab5\\Models\\Account.cs*",
+              "RelativeToolTip": "Mvclab5\\Models\\Account.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:20:26.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
