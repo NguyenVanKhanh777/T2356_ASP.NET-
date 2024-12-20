@@ -1,0 +1,44 @@
+﻿@model IEnumerable<DevXuongMoc.Models.Order>
+
+@{
+    ViewData["Title"] = "Danh Sách Đơn Hàng";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Danh Sách Đơn Hàng</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Tạo Mới</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotalAmount)
+            </th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CustomerId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TotalAmount)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.OrderId" class="btn btn-primary btn-sm">Chỉnh Sửa</a> |
+                    <a asp-action="Details" asp-route-id="@item.OrderId" class="btn btn-info btn-sm">Chi Tiết</a> |
+                    <a asp-action="Delete" asp-route-id="@item.OrderId" class="btn btn-danger btn-sm">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

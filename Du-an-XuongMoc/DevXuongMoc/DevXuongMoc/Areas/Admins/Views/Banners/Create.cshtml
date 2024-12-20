@@ -1,0 +1,109 @@
+﻿@model DevXuongMoc.Models.Banner
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/Admins/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="container mt-4">
+    <h1 class="text-center mb-4">Tạo mới Banner</h1>
+    <div class="card shadow-sm">
+        <div class="card-header bg-primary text-white">
+            <h4 class="mb-0">Thông tin Banner</h4>
+        </div>
+        <div class="card-body">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+                <div class="mb-3">
+                    <label asp-for="Image" class="form-label"></label>
+                    <input asp-for="Image" class="form-control" />
+                    <span asp-validation-for="Image" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Title" class="form-label"></label>
+                    <input asp-for="Title" class="form-control" />
+                    <span asp-validation-for="Title" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="SubTitle" class="form-label"></label>
+                    <input asp-for="SubTitle" class="form-control" />
+                    <span asp-validation-for="SubTitle" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Urls" class="form-label"></label>
+                    <input asp-for="Urls" class="form-control" />
+                    <span asp-validation-for="Urls" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Orders" class="form-label"></label>
+                    <input asp-for="Orders" type="number" class="form-control" />
+                    <span asp-validation-for="Orders" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Type" class="form-label"></label>
+                    <input asp-for="Type" class="form-control" />
+                    <span asp-validation-for="Type" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="CreatedDate" class="form-label"></label>
+                    <input asp-for="CreatedDate" type="datetime-local" class="form-control" />
+                    <span asp-validation-for="CreatedDate" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="UpdatedDate" class="form-label"></label>
+                    <input asp-for="UpdatedDate" type="datetime-local" class="form-control" />
+                    <span asp-validation-for="UpdatedDate" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="AdminCreated" class="form-label"></label>
+                    <input asp-for="AdminCreated" class="form-control" />
+                    <span asp-validation-for="AdminCreated" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="AdminUpdated" class="form-label"></label>
+                    <input asp-for="AdminUpdated" class="form-control" />
+                    <span asp-validation-for="AdminUpdated" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Notes" class="form-label"></label>
+                    <textarea asp-for="Notes" class="form-control"></textarea>
+                    <span asp-validation-for="Notes" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Status" class="form-label"></label>
+                    <select asp-for="Status" class="form-select">
+                        <option value="1">Active</option>
+                        <option value="0">Inactive</option>
+                    </select>
+                    <span asp-validation-for="Status" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3 form-check">
+                    <input asp-for="Isdelete" class="form-check-input" />
+                    <label asp-for="Isdelete" class="form-check-label"></label>
+                </div>
+
+                <div class="text-center">
+                    <button type="submit" class="btn btn-primary me-2">
+                        <i class="bi bi-check-circle"></i> Create
+                    </button>
+                    <a asp-action="Index" class="btn btn-secondary">
+                        <i class="bi bi-arrow-left-circle"></i> Back to List
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

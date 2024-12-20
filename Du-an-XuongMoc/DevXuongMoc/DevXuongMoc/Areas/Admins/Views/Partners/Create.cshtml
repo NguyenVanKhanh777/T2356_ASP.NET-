@@ -1,0 +1,50 @@
+﻿@model DevXuongMoc.Models.Partner
+
+@{
+    ViewData["Title"] = "Tạo Mới Đối Tác";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Tạo Mới Đối Tác</h1>
+
+<h4>Đối Tác</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Title" class="control-label">Tiêu Đề</label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Url" class="control-label">URL</label>
+                <input asp-for="Url" class="form-control" />
+                <span asp-validation-for="Url" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AdminCreated" class="control-label">Ngày Tạo</label>
+                <input asp-for="AdminCreated" class="form-control" />
+                <span asp-validation-for="AdminCreated" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AdminUpdated" class="control-label">Ngày Cập Nhật</label>
+                <input asp-for="AdminUpdated" class="form-control" />
+                <span asp-validation-for="AdminUpdated" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Content" class="control-label">Nội Dung</label>
+                <input asp-for="Content" class="form-control" />
+                <span asp-validation-for="Content" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Tạo Mới" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Quay lại danh sách</a>
+</div>

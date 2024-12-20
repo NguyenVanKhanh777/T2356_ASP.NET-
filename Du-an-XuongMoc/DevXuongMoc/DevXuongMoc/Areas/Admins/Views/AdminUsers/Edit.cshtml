@@ -1,0 +1,130 @@
+﻿@model DevXuongMoc.Models.AdminUser
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Areas/Admins/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="container mt-4">
+    <h1 class="text-center mb-4">Chỉnh sửa Người dùng quản trị</h1>
+    <h4 class="mb-3">Chi tiết Người dùng quản trị</h4>
+    <hr />
+
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <form asp-action="Edit" class="needs-validation" novalidate>
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+                <input type="hidden" asp-for="Id" />
+
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="Account" class="form-label">Account</label>
+                        <input asp-for="Account" class="form-control" />
+                        <span asp-validation-for="Account" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="Password" class="form-label">Password</label>
+                        <input asp-for="Password" class="form-control" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="MaNhanSu" class="form-label">Employee ID</label>
+                        <input asp-for="MaNhanSu" class="form-control" />
+                        <span asp-validation-for="MaNhanSu" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="Name" class="form-label">Name</label>
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="Phone" class="form-label">Phone</label>
+                        <input asp-for="Phone" class="form-control" />
+                        <span asp-validation-for="Phone" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="Email" class="form-label">Email</label>
+                        <input asp-for="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="Avatar" class="form-label">Avatar</label>
+                        <input asp-for="Avatar" class="form-control" />
+                        <span asp-validation-for="Avatar" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="IdPhongBan" class="form-label">Department ID</label>
+                        <input asp-for="IdPhongBan" class="form-control" />
+                        <span asp-validation-for="IdPhongBan" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="NgayTao" class="form-label">Created Date</label>
+                        <input asp-for="NgayTao" class="form-control" />
+                        <span asp-validation-for="NgayTao" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="NguoiTao" class="form-label">Created By</label>
+                        <input asp-for="NguoiTao" class="form-control" />
+                        <span asp-validation-for="NguoiTao" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="NgayCapNhat" class="form-label">Updated Date</label>
+                        <input asp-for="NgayCapNhat" class="form-control" />
+                        <span asp-validation-for="NgayCapNhat" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="NguoiCapNhat" class="form-label">Updated By</label>
+                        <input asp-for="NguoiCapNhat" class="form-control" />
+                        <span asp-validation-for="NguoiCapNhat" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="SessionToken" class="form-label">Session Token</label>
+                        <input asp-for="SessionToken" class="form-control" />
+                        <span asp-validation-for="SessionToken" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="Salt" class="form-label">Salt</label>
+                        <input asp-for="Salt" class="form-control" />
+                        <span asp-validation-for="Salt" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="IsAdmin" class="form-label">Is Admin</label>
+                        <input asp-for="IsAdmin" class="form-control" />
+                        <span asp-validation-for="IsAdmin" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="TrangThai" class="form-label">Status</label>
+                        <input asp-for="TrangThai" class="form-control" />
+                        <span asp-validation-for="TrangThai" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="form-group text-center">
+                    <button type="submit" class="btn btn-primary me-2">Save</button>
+                    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
