@@ -1,0 +1,165 @@
+E:\Part time\New Project\BookShop\bin\BookShop.dll.config
+E:\Part time\New Project\BookShop\bin\BookShop.dll
+E:\Part time\New Project\BookShop\bin\BookShop.pdb
+E:\Part time\New Project\BookShop\bin\roslyn\csc.exe
+E:\Part time\New Project\BookShop\bin\roslyn\csc.exe.config
+E:\Part time\New Project\BookShop\bin\roslyn\csc.rsp
+E:\Part time\New Project\BookShop\bin\roslyn\csi.exe
+E:\Part time\New Project\BookShop\bin\roslyn\csi.rsp
+E:\Part time\New Project\BookShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Part time\New Project\BookShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Part time\New Project\BookShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Part time\New Project\BookShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Part time\New Project\BookShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Part time\New Project\BookShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Part time\New Project\BookShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Part time\New Project\BookShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Part time\New Project\BookShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Part time\New Project\BookShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Part time\New Project\BookShop\bin\roslyn\System.Collections.Immutable.dll
+E:\Part time\New Project\BookShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\Part time\New Project\BookShop\bin\roslyn\vbc.exe
+E:\Part time\New Project\BookShop\bin\roslyn\vbc.exe.config
+E:\Part time\New Project\BookShop\bin\roslyn\vbc.rsp
+E:\Part time\New Project\BookShop\bin\roslyn\VBCSCompiler.exe
+E:\Part time\New Project\BookShop\bin\roslyn\VBCSCompiler.exe.config
+E:\Part time\New Project\BookShop\bin\Antlr3.Runtime.dll
+E:\Part time\New Project\BookShop\bin\EntityFramework.dll
+E:\Part time\New Project\BookShop\bin\Facebook.dll
+E:\Part time\New Project\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Part time\New Project\BookShop\bin\Microsoft.Web.Infrastructure.dll
+E:\Part time\New Project\BookShop\bin\Newtonsoft.Json.dll
+E:\Part time\New Project\BookShop\bin\PagedList.dll
+E:\Part time\New Project\BookShop\bin\PagedList.Mvc.dll
+E:\Part time\New Project\BookShop\bin\System.Web.Helpers.dll
+E:\Part time\New Project\BookShop\bin\System.Web.Mvc.dll
+E:\Part time\New Project\BookShop\bin\System.Web.Optimization.dll
+E:\Part time\New Project\BookShop\bin\System.Web.Razor.dll
+E:\Part time\New Project\BookShop\bin\System.Web.WebPages.Deployment.dll
+E:\Part time\New Project\BookShop\bin\System.Web.WebPages.dll
+E:\Part time\New Project\BookShop\bin\System.Web.WebPages.Razor.dll
+E:\Part time\New Project\BookShop\bin\WebGrease.dll
+E:\Part time\New Project\BookShop\bin\EntityFramework.xml
+E:\Part time\New Project\BookShop\bin\Facebook.xml
+E:\Part time\New Project\BookShop\bin\PagedList.xml
+E:\Part time\New Project\BookShop\bin\PagedList.Mvc.xml
+E:\Part time\New Project\BookShop\bin\System.Web.Helpers.xml
+E:\Part time\New Project\BookShop\bin\System.Web.Mvc.xml
+E:\Part time\New Project\BookShop\bin\System.Web.Optimization.xml
+E:\Part time\New Project\BookShop\bin\System.Web.Razor.xml
+E:\Part time\New Project\BookShop\bin\System.Web.WebPages.xml
+E:\Part time\New Project\BookShop\bin\System.Web.WebPages.Deployment.xml
+E:\Part time\New Project\BookShop\bin\System.Web.WebPages.Razor.xml
+E:\Part time\New Project\BookShop\bin\Newtonsoft.Json.xml
+E:\Part time\New Project\BookShop\bin\Antlr3.Runtime.pdb
+E:\Part time\New Project\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Part time\New Project\BookShop\obj\Debug\BookShop.csproj.CopyComplete
+E:\Part time\New Project\BookShop\obj\Debug\BookShop.dll
+E:\Part time\New Project\BookShop\obj\Debug\BookShop.pdb
+E:\Part time\New Project\BookShop\bin\Autofac.dll
+E:\Part time\New Project\BookShop\bin\CKFinder.dll
+E:\Part time\New Project\BookShop\bin\CKSource.CKFinder.Connector.Core.dll
+E:\Part time\New Project\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.EntityFramework.dll
+E:\Part time\New Project\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.FileSystem.dll
+E:\Part time\New Project\BookShop\bin\CKSource.FileSystem.dll
+E:\Part time\New Project\BookShop\bin\Autofac.xml
+E:\Part time\New Project\BookShop\bin\CKFinder.pdb
+E:\Part time\New Project\BookShop\bin\CKSource.CKFinder.Connector.Core.xml
+E:\Part time\New Project\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.EntityFramework.xml
+E:\Part time\New Project\BookShop\bin\CKSource.FileSystem.xml
+E:\Part time\New Project\BookShop\bin\EntityFramework.SqlServer.dll
+E:\Part time\New Project\BookShop\bin\EntityFramework.SqlServer.xml
+E:\Part time\New Project\BookShop\obj\Debug\BookShop.csprojAssemblyReference.cache
+E:\Part time\New Project\BookShop\bin\roslyn\csi.exe.config
+E:\Part time\New Project\BookShop\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Part time\New Project\BookShop\bin\roslyn\System.Buffers.dll
+E:\Part time\New Project\BookShop\bin\roslyn\System.Memory.dll
+E:\Part time\New Project\BookShop\bin\roslyn\System.Numerics.Vectors.dll
+E:\Part time\New Project\BookShop\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\Part time\New Project\BookShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Part time\New Project\BookShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Part time\New Project\BookShop\bin\Rotativa.Core.dll
+E:\Part time\New Project\BookShop\bin\Rotativa.MVC.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\BookShop.dll.config
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\BookShop.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\BookShop.pdb
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\System.Buffers.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\System.Memory.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\Autofac.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\CKFinder.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\CKSource.CKFinder.Connector.Core.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.EntityFramework.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.FileSystem.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\CKSource.FileSystem.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\Facebook.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\PagedList.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\PagedList.Mvc.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\Rotativa.Core.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\Rotativa.MVC.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\WebGrease.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\Autofac.xml
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\CKFinder.pdb
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\CKSource.CKFinder.Connector.Core.xml
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.EntityFramework.xml
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\CKSource.FileSystem.xml
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\Facebook.xml
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\PagedList.xml
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\PagedList.Mvc.xml
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\BookShop\BookShop\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\BookShop\BookShop\obj\Debug\BookShop.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\BookShop\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BookShop\BookShop\obj\Debug\BookShop.csproj.Up2Date
+C:\Users\Admin\Downloads\BookShop\BookShop\obj\Debug\BookShop.dll
+C:\Users\Admin\Downloads\BookShop\BookShop\obj\Debug\BookShop.pdb
